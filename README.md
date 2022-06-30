@@ -9,7 +9,7 @@ After wrapping up a Bachelor of Science with a Major in Data Science in 2020, I'
 * 🌍  I'm based in Melbourne, Australia
 * ✉️  You can contact me at [nickbarlow@live.com.au](mailto:nickbarlow@live.com.au)
 * 🚀  I'm currently working on [GRV\_model](http://https://github.com/nickojelly/grvmodel)
-* 🧠  I'm learning Custom loss functions
+* 🧠  I'm learning Custom loss functions in Pytorch, Redis
 * 🤝  I'm open to collaborating on anyhting pytorch, rl
 
 ### Skills
